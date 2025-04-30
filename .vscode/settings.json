@@ -1,0 +1,9 @@
+{
+    "java.project.referencedLibraries": [
+      "lib/**/*.jar",
+      "TimeOut-Bar/lib/itextpdf-5.3.3.jar"
+    ],
+    "java.project.sourcePaths": [
+      "TimeOut-Bar/src"
+    ]
+  }

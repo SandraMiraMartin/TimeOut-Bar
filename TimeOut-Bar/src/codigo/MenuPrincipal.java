@@ -1,8 +1,7 @@
 package codigo;
 
-import javax.swing.JButton;
-import javax.swing.*;
 import java.awt.*;
+import javax.swing.*;
 
 public class MenuPrincipal extends JFrame {
 
@@ -28,5 +27,4 @@ public class MenuPrincipal extends JFrame {
 
         setVisible(true);
     }
-
 }
